@@ -63,4 +63,4 @@ async def on_message(message):
 			submits[message.author.id] = aux
 
 
-client.run('MTA2NjY5MTU2MDIwMjMwOTYzMg.GVeyaq.z3d4VcD-iosLk17wOxy0mJWf9Cac5L8h4dH80k')
+client.run('token goes here')
