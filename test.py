@@ -5,8 +5,8 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = discord.Client(intents=intents)
-id_guild = 397889512174518283
-id_channel = 675414098024071169
+id_guild = 'id guild goes here'
+id_channel = 'id channel goes here'
 global channel
 global submiter
 global submits
